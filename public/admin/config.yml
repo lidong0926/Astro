@@ -2,8 +2,8 @@ backend:
   name: github
   branch: main # change this to your branch
   repo: lidong0926/Astro # 1、change this to your repo
-  site_domain: blog.lidong.eu.org # 2、change this to your domain
-  base_url: https://blog.lidong.eu.org # 3、change this to your prod URL
+  site_domain: blog.lidong.dpdns.org # 2、change this to your domain
+  base_url: https://blog.lidong.dpdns.org # 3、change this to your prod URL
   auth_endpoint: oauth # the oauth route provided by the integration
 
 collections:
