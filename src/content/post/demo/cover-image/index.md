@@ -6,6 +6,7 @@ coverImage:
   src: "./cover.png"
   alt: "封面图"
 tags: ["示例"]
+draft: true
 ogImage: "/social-card.avif"
 ---
 
